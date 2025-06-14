@@ -41,10 +41,12 @@ Enable robust and accurate classification of ASL letters using:
 ## 📷 Sample Screenshots
 
 ### Original Image
-<img width="104" alt="image" src="https://github.com/user-attachments/assets/6adea140-794a-451e-ad75-9c77f769108c" />
+<img width="217" alt="image" src="https://github.com/user-attachments/assets/d9093987-c070-45e7-b620-9a5b5c76b365" />
+
 
 ### Image After Applying Median Filter
-<img width="218" alt="image" src="https://github.com/user-attachments/assets/c0e7be5f-bbbf-4dc9-836d-9b6f9b26ebf9" />
+<img width="217" alt="image" src="https://github.com/user-attachments/assets/72eaf8c9-64ab-4b7d-9ab2-24b5c6b225ee" />
+
 
 
 
