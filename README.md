@@ -43,8 +43,9 @@ Enable robust and accurate classification of ASL letters using:
 ### Original Image
 <img width="104" alt="image" src="https://github.com/user-attachments/assets/6adea140-794a-451e-ad75-9c77f769108c" />
 
-### Image After Applying Canny Filter
-<img width="103" alt="image" src="https://github.com/user-attachments/assets/c70598fe-dd1c-49bf-988f-3ac0211effe0" />
+### Image After Applying Median Filter
+<img width="218" alt="image" src="https://github.com/user-attachments/assets/c0e7be5f-bbbf-4dc9-836d-9b6f9b26ebf9" />
+
 
 
 ## 🚧 Limitations & Future Work
